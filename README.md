@@ -4,7 +4,7 @@
 
 This is a simple function subsample a portion of ssr data and calculate the mean and sd of the subsampled set
 
-### #Usage
+#### Usage
 
 ```R
 subsample_countmean(filepath, pct = 0.1, times = 20,
